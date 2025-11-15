@@ -1,0 +1,1 @@
+I’ve learned how to use essential Git commands to manage my projects effectively—creating repositories, tracking changes, committing updates, and pushing code to remote platforms like GitHub. I can now branch, merge and ensuring smooth version control and organized collaboration in my development workflow.
